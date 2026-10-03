@@ -11,7 +11,6 @@ Abrir Consulta Pública de Processos
 
 Digitar Numero do Processo
     [Arguments]    ${numero_processo}
-    Sleep    5s
     Input Text    ${NUM_PROCESSO}    ${numero_processo}
 
 Clicar Botão Consultar
