@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Robot Framework
+results/
+log.html
+report.html
+output.xml
+
+# OS
+.DS_Store
+Thumbs.db
